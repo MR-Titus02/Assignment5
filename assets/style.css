@@ -2,6 +2,8 @@
     padding: 0;
     margin: 0;
 }
-.white {
-    color: white;
+#section1 {
+    background-size: cover; 
+    background-repeat: no-repeat;
+    height: 500px;
 }
