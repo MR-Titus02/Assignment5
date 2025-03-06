@@ -28,3 +28,10 @@
 .links > li > a:hover {
     color: #DAA520;
 }
+.copy {
+    text-decoration: none;
+    color: #DAA520;
+}
+.copy:hover {
+    color: white;
+}
